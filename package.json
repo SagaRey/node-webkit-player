@@ -1,0 +1,16 @@
+{
+	"name": "nw-player",
+	"main": "player.html",
+	"window": {
+		"icon": "player.png",
+		"toolbar": false,
+		"frame": false,
+		"width": 854,
+		"height": 480,
+		"min_width": 768,
+		"min_height": 432
+	},
+	"webkit": {
+		"plugin": true
+	}
+}
